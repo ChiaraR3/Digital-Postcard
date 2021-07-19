@@ -1,0 +1,14 @@
+head {font-family: 'Encode Sans SC', sans-serif;}
+body {background: #bdbdbd;;
+margin: 0;}
+div {box-sizing: border-box;}
+header {background: white;
+padding: 10px;}
+header h1 {margin:0}
+.foto {background: white;
+margin-top: 20px;}
+.foto h2, .foto p{padding: 10px; margin: 0;}
+.foto img{width: 100%;}
+.foto .foto-header div:first-child {display: inline-block;  width: 80%;}
+.foto .foto-header div:last-child {display: inline-block; width: 20%;text-align: right;padding: 10px; color: gray;}
+.container {margin:auto; width: 600px;}
